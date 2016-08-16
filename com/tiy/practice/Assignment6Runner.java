@@ -14,6 +14,7 @@ public class Assignment6Runner {
             myAccount.setBalance(initBal * (accountIndex + 1));
             thisCanBeNamedWhatever.addBankAccount(myAccount);
         }
+        // This is a basic way to test without user input
 
     }
 
